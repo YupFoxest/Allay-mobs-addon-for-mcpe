@@ -1,0 +1,142 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "Allay Concept (B)",
+        "role": "Mojang announced on its youtube channel a very interesting new mob its name is: Allay you want to try it first hand? This addon is just a concept that represents what was presented in the original Mojang video, until the official announcement of the winner, all features remained the same.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Allay/3/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/3/Allay Concept Behavior Pack101.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/3/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/3/1.png"
+    },
+    {
+        "name": "Allay Concept (R)",
+        "role": "Mojang announced on its youtube channel a very interesting new mob its name is: Allay you want to try it first hand? This addon is just a concept that represents what was presented in the original Mojang video, until the official announcement of the winner, all features remained the same.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Allay/3/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/3/Allay Concept Resource Pack101.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/3/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/3/1.png"
+    },
+    {
+        "name": "Mob Hider V26 (New Mob Added!)",
+        "role": "Mob Hider is an addon for those who want to become mobs and monsters in Minecraft PE. You mainly cannot become mobs and monsters in the vanilla version of the game. Would you like, for example, to become Creepers, Endermans, Witches and other monsters? Just download this addon to get this opportunity. Remember to turn on Experimental Gameplay Mode before you use this addon. I hope you like it, download and enjoy.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Allay/4/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/4/Mob_Hider_V17.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/4/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/4/1.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/0CryMA7vRO_KI7G0axZDsQiCWMYtJdqcZL3OVOsLUXCm-Px6GhD4C2yBD8PZZ5DhkC5uaqfmwkEI_gRby19Fb1ZFK0V5DGmK-knr",
+    "view_skin": "https://lh3.googleusercontent.com/ouuk_Dfnoegt-dJ0qBvjnglRzMQl0PTGBO-0flmMLzR9BVgYn4lvDpqZ43IiJKFFV36GiJzc5RA0AcB_AzNysRtgYZf_NQi2WiI"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/oPfiLXgpxH9drpMosWgLsBbteo17JZO_NQUK5lbqXPwYkfUFMdnQzZqR89BswPttNaHUui5UwFOE3YnT1WMg1PulV7XLDsSq1cex",
+    "view_skin": "https://lh3.googleusercontent.com/sG6OpXkAfbO5IvctwQcUsv8mIH7FnXgjWISLwPQRut_GXWBcVL2hC4fdcdPlRguuhQ2kNzY9hNh_KbbS2n4el6833f14Iyt7pUwu"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/V35UbBSFAQt7P42m8AIfafXkBGOVvBzEMoCp7Wtx5qeJHd3QHIiKT1GNWbpE7PhbZ7ekpQhiTJSvL1ywIhp1UN9Monwu7tohtxVA",
+    "view_skin": "https://lh3.googleusercontent.com/9dGvPaZ7frBSwMlvT5WCnws23xK-MlJMoYmmkrfoIKPx-2sES2JchE2mdeDw-QXIwZqAOmDtrlghDWfjZWLEcOzVNIXXMgDMA7Y"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Vo_7PBNyxsvdPQZQuBuTvNsaCTSIDwFizHiyqVoOoSsgix3GYUMMLDIGu7FfE9iLwtqnnjdHRuoBReUT6WaQkXRYdhaJqwdGl_ZE",
+    "view_skin": "https://lh3.googleusercontent.com/_guN5CwkI8gCUMhXhmWg7oryXL8NzamSx5PVqeEcAUyQjOn8xgWhOPsrbf08R-eZoWGNFsfgSa0qhG_u3nbdyBIK21Z7RZdFEGsF"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/NlGrgg9zdIBiqAQurYdF-3hjYzt_u5DrmQBRw_7bw_AucQkS7DqINUYiKMTVa99cA7UegA_NGhCfTJWpONjOQ38exZAQBGF0Pw",
+    "view_skin": "https://lh3.googleusercontent.com/jlNyjP5ZehBkl3uRZtk9QiXMvz0w3lkaAYG4qu4btcC9p59QCmUEwSJb6TIXH6blWw5azqjsQwW5n6mVlyq4VSyEUfXTrSHOt3I"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/SLwYCDkSOFT_7zUcA8hKRPjPU0B3LnmH2Zg5Ql54vItRndDQKEnRVxXYtyvYh2pKbtlay8JyL6gc0n1iOh4ge_OPeckzkyu3_g",
+    "view_skin": "https://lh3.googleusercontent.com/CmVMtLW4Tecu6ZuH0qtkhW5AkdSdGcqwymrN1kR0JQhPGr2fcYTdIQf1XJ1UUi2cE_VjDBalF_RY04Ykt-srjOKwSB4cKsLBrw"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/68fQGJfs1eWpy-X_A9sac_jeZQx5a8DioelFx0YuNq65rgShkjXaW0ehTluoWjaXRp3Urmg4Oqq4tgxewWi1SYdoU1NX7yu3TEMq",
+    "view_skin": "https://lh3.googleusercontent.com/1M0psaFmZAqGvaGM6Xx1VItartUoPQWsE69btHfqkAXVmldrICWijI9vgyA9znICFff9vkwneLNOwgSNl5Q17msRCTB2DmLQRIA"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
