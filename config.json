@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,28 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Allay Concept (B)",
-        "role": "Mojang announced on its youtube channel a very interesting new mob its name is: Allay you want to try it first hand? This addon is just a concept that represents what was presented in the original Mojang video, until the official announcement of the winner, all features remained the same.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Allay/3/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/3/Allay Concept Behavior Pack101.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/3/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/3/1.png"
-    },
-    {
-        "name": "Allay Concept (R)",
-        "role": "Mojang announced on its youtube channel a very interesting new mob its name is: Allay you want to try it first hand? This addon is just a concept that represents what was presented in the original Mojang video, until the official announcement of the winner, all features remained the same.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Allay/3/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/3/Allay Concept Resource Pack101.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/3/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/3/1.png"
-    },
-    {
-        "name": "Mob Hider V26 (New Mob Added!)",
-        "role": "Mob Hider is an addon for those who want to become mobs and monsters in Minecraft PE. You mainly cannot become mobs and monsters in the vanilla version of the game. Would you like, for example, to become Creepers, Endermans, Witches and other monsters? Just download this addon to get this opportunity. Remember to turn on Experimental Gameplay Mode before you use this addon. I hope you like it, download and enjoy.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Allay/4/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/4/Mob_Hider_V17.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/4/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/4/1.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
